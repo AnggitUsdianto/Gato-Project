@@ -19,6 +19,7 @@ Pendekatan *development* di repo ini mengutamakan kontrol sedekat mungkin pada *
 * **Environment:** Native Windows 
 * **Editor:** Lite XL
 * **Build Tool:** GNU Make For Windows
+* **Emulator (For Testing):** Qemu
 
 ## 📂 Repository Structure
 
