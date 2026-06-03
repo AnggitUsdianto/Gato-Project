@@ -1,4 +1,4 @@
-# 🚀 Gato-Project : The Bare Metal Journey
+# 🚀 Gato-Project : The Learning Journey
 
 Repositori ini adalah catatan perjalanan dan *growth progress* saya dalam eksplorasi *low-level systems programming*, arsitektur x86, dan *operating system development*. Tujuan utamanya adalah mencatat transisi pemahaman saya dalam interaksi dengan *hardware* di level paling dasar, hingga jika memungkinkan membangun kernel sederhana dan/atau dilanjutkan ke userspace.
 Kode-kode yang saya tampilkan nantinya bukanlah kode level produksi (apalagi kode yang sempurna), namun merupakan kode-kode yang mengakomodasi saya untuk mengeksplore programming dalam tiap level komputer, sehingga sangat dimungkinkan akan banyak kekurangan (kritik dan masukan sangat diharapkan).
