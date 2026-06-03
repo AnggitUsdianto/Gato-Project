@@ -8,7 +8,7 @@ Kode-kode yang saya tampilkan nantinya bukanlah kode level produksi (apalagi kod
 Bagian ini akan terus di-*update* seiring berjalannya waktu untuk mencatat update dan perkembangan baru.
 
 ### Phase 1: Booting Up (Current Focus)
-- [ ] **Multiboot Bootloader:** Implementasi *bootloader* custom di Legacy BIOS.
+- [ ] **Multiboot Bootloader:** Implementasi *bootloader* custom di BIOS (tahap tes di virtual machine).
 
 ## 🛠️ Tech Stack & Environment
 
