@@ -1,0 +1,22 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Binaries
+*.bin
+*.elf
+*.iso
+*.img
+*.exe
+*.dll
+
+.vs/
+*.pdb
+*.idb
+*.ilk
+*.suo
+*.user
+
+# Build directorpes & Logs
+build/
+*.log
