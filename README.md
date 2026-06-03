@@ -1,8 +1,8 @@
-# Gato-Project : The Bare Metal Journey
+# 🚀 Gato-Project : The Bare Metal Journey
 
 Repositori ini adalah catatan perjalanan dan *growth progress* gw dalam mengeksplorasi *low-level systems programming*, arsitektur x86, dan *operating system development*. Tujuan utama repo ini adalah mencatat transisi pemahaman gw-dari berinteraksi dengan *hardware* di level paling dasar, hingga membangun arsitektur sistem dari nol.
 
-## Progress Log
+## 📈 Progress Log
 
 Bagian ini akan terus di-*update* seiring berjalannya waktu untuk mencatat pencapaian, hasil *debugging*, dan *milestone* baru.
 
