@@ -25,5 +25,4 @@ Pendekatan *development* di repo ini mengutamakan kontrol sedekat mungkin pada *
 
 ```text
 ├── bootloader/     # Source code untuk multiboot bootloader (Coming soon!)
-├── kernel/         # Core kernel files, memory management, dan 32-bit entry points
-├── build/          # Build scripts (termasuk Makefiles)
+├── build/          # Build scripts (termasuk Makefiles) (Coming soon!)
