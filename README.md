@@ -18,6 +18,7 @@ Pendekatan *development* di repo ini mengutamakan kontrol sedekat mungkin pada *
 * **Assembler & Toolchain:** NASM, LLVM/Clang
 * **Environment:** Native Windows 
 * **Editor:** Lite XL
+* **Build Tool:** GNU Make For Windows
 
 ## 📂 Repository Structure
 
