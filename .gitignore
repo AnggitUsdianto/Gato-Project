@@ -19,4 +19,5 @@
 
 # Build directorpes & Logs
 build/
+!build/makefile
 *.log
