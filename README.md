@@ -24,5 +24,5 @@ Pendekatan *development* di repo ini mengutamakan kontrol sedekat mungkin pada *
 *(Struktur folder ini akan mulai terisi saat source code di-upload)*
 
 ```text
-├── bootloader/     # Source code untuk multiboot bootloader (Coming soon!)
-├── build/          # Build scripts (termasuk Makefiles) (Coming soon!)
+├── bootloader/     # Source code untuk multiboot bootloader
+├── build/          # Build scripts (termasuk Makefiles)
