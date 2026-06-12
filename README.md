@@ -28,3 +28,4 @@ Pendekatan *development* di repo ini mengutamakan kontrol sedekat mungkin pada *
 ```text
 ├── bootloader/     # Source code untuk multiboot bootloader
 ├── build/          # Build scripts (termasuk Makefiles)
+├── kernel/         # kernel code
