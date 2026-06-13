@@ -26,13 +26,24 @@ get_input:
 	int 0x16
 
 	cmp al, '1'
+	je .input_valid
+	cmp al, '2'
+	je .input_valid
+	cmp al, '3'
+	je .input_valid
+
+	jmp get_input
+
+.input_valid
+	mov ah, 0x0E
+	int 0x10
+	
+	cmp al, '1'
 	je boot_distro
 	cmp al, '2'
 	je boot_kernel
 	cmp al, '3'
 	je boot_myKernel
-
-	jmp get_input
 
 boot_distro:
 	mov si, msg_boot_distro
